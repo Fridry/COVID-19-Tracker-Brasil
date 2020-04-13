@@ -7,4 +7,4 @@ Desenvolvido tendo como base o tutorial [Build a COVID-19 Tracker Application - 
 - React;
 - Charts.js;
 - Material UI;
-- [Covid19 Brazil API](https://covid19-brazil-api.now.sh/api/report/v1).
+- [Covid19 Brazil API](https://github.com/Fridry/covid19-brazil-api).
